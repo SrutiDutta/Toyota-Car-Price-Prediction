@@ -1,2 +1,3 @@
 # Toyota-Car-Price-Prediction
-Toyota Car Price Prediction using Multiple linear regression
+Consider relevant columns and prepare a prediction model for predicting Price of Toyota Cars.
+Did proper exploratory Data Analysis and Feature Selection.
